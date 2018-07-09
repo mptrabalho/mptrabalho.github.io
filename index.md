@@ -1,12 +1,14 @@
-## Welcome to GitHub Pages
+## Política de Privacidade do MPT Pardal - Denúncias
 
-You can use the [editor on GitHub](https://github.com/mptrabalho/mptrabalho.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Este aplicativo coleta dados pessoais fornecidos pelo usuário e os mantém de forma privada.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### I. Que tipo de informações coletamos
 
-### Markdown
+Os dados recebidos são utilizados como parte no processo para realizar a denúncia trabalhista, tratando-se unicamente e exclusivamente para este fim.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Permissões de dispositivo para acesso a dados pessoais: Localização, Câmera, Microfone e permissão de armazenamento no dispositivo.
+
+- Formulário de contato: Acesso a endereço, cidade, endereço de email e CEP
 
 ```markdown
 Syntax highlighted code block
@@ -28,10 +30,13 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### II. Como nos usamos estas informações
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mptrabalho/mptrabalho.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+As informações são utilizadas para dar sustentação nas denúncias realizadas, não existindo o compartilhamento de informações.
 
-### Support or Contact
+### III. Como entrar em contato
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Você pode entrar em contato por meio do email: mobile.android@mpt.mp.br.
+
+Contato direto ou correspondência em:
+**MPT Sede - SAUN Quadra 5, Lote C, Torre A- Brasília - DF CEP 70040-250**
