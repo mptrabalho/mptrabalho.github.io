@@ -1,4 +1,4 @@
-### Política de Privacidade do MPT Pardal - Denúncias
+# Política de Privacidade do MPT Pardal - Denúncias
 
 Este aplicativo coleta dados pessoais fornecidos pelo usuário e os mantém de forma privada.
 
