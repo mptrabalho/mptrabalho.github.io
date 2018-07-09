@@ -10,26 +10,6 @@ Os dados recebidos são utilizados como parte no processo para realizar a denún
 
 - Formulário de contato: Acesso a endereço, cidade, endereço de email e CEP
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### II. Como nos usamos estas informações
 
 As informações são utilizadas para dar sustentação nas denúncias realizadas, não existindo o compartilhamento de informações.
